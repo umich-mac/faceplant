@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>edu.umich.lsa.faceplant</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/local/sbin/faceplant</string>
+	</array>
+	<key>OnDemand</key>
+	<false/>
+	<key>ServiceDescription</key>
+	<string>faceplant: automatically shut down when the lid is closed or system tries to sleep</string>
+</dict>
+</plist>

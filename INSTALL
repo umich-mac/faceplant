@@ -1,0 +1,10 @@
+Installing Faceplant
+====================
+
+1. Create the directory /usr/local/sbin
+
+2. Copy faceplant to /usr/local/sbin.  Make sure it's executable.
+
+3. Copy edu.umich.lsa.faceplant.plist to /Library/LaunchDaemons
+
+4. Reboot.
